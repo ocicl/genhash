@@ -1,0 +1,10 @@
+* genhash
+
+http://cdr.eurolisp.org/document/2/
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pnathan/genhash.git   |
+| commit  | 220ae1a  |
+| systems | genhash |
+|---------+-------------------------------------------|
+
